@@ -1,5 +1,9 @@
 <h1>Hi, I'm Trupti! <br/><a href="https://github.com/trupti-08">AWS Cloud and Devops Engineer</a>, <a href="https://www.linkedin.com/in/trupti-desai">linkedin Profile</a>
-
+<h2>📚 About Me</h2>
+   <p>🎓 Education: Bachelor's Degree in Electrical Engineering (2018)</p>
+   <p><b>🏢 Work Experience:</b></p>
+      <p>- Mendix Developer @ Xceedance (May 2022 – May 2023)</p>
+      <p>- Operations Associate @ WNS (Sep 2019 – Nov 2021)</p>
 <h2>👨‍💻Projects:</h2>
 
 - <b>AWS Multi-Tier Architecture Deployment</b>
