@@ -4,8 +4,8 @@
 
    <p>🎓 Education: Bachelor's Degree in Electrical Engineering (2018)</p>
    <p><b>🏢 Work Experience:</b></p>
-      <p>- Mendix Developer @ Xceedance (May 2022 – May 2023)</p>
-      <p>- Operations Associate @ WNS (Sep 2019 – Nov 2021)</p>
+      <p><b>- Mendix Developer @ Xceedance </b> (May 2022 – May 2023)</p>
+      <p><b>- Operations Associate @ WNS </b> (Sep 2019 – Nov 2021)</p>
    <p><b>🚀Certifications</b></p>
       <p>- AWS Certified Solutions Architect – Associate</p>
       <p>- DevOps and Cloud Computing Certification from Intellipaat</p>
