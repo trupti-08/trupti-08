@@ -6,6 +6,18 @@
    <p><b>🏢 Work Experience:</b></p>
       <p>- Mendix Developer @ Xceedance (May 2022 – May 2023)</p>
       <p>- Operations Associate @ WNS (Sep 2019 – Nov 2021)</p>
+   <p><b>🚀Certifications</b></p>
+      <p>- AWS Certified Solutions Architect – Associate</p>
+      <p>- DevOps and Cloud Computing Certification from Intellipaat</p>
+
+<h2>🚀 Skills & Technologies:</h2>
+   <p><b>Cloud Providers:</b> AWS (EC2, S3, IAM, RDS, VPC, CloudFormation)</p>
+   <p><b>CI/CD Tools:</b> Jenkins, GitHub Actions</p>
+   <p><b>Infrastructure as Code (IaC):</b> Terraform, CloudFormation</p>
+   <p><b>Configuration Management:</b> Ansible</p>
+   <p><b>Containerization & Orchestration:</b> Docker, Kubernetes</p>
+   <p><b>Scripting/Automation:</b> Bash, YAML</p>
+   <p><b>Version Control:</b> Git, GitHub</p>
       
 <h2>👨‍💻Projects:</h2>
 
