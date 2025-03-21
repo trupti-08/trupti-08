@@ -7,9 +7,9 @@
       <p><b>- Mendix Developer @ Xceedance </b> (May 2022 – May 2023)</p>
       <p><b>- Operations Associate @ WNS </b> (Sep 2019 – Nov 2021)</p>
    <p><b>🚀Certifications</b></p>
-      <p><b>- AWS Certified Solutions Architect – Associate from Intellipaat</b></p>
-      <p><b>- AWS DevOps Training and Certification from Intellipaat</b></p>
-      <p><b>- DevOps Course from Intellipaat</b></p>
+      <p>- AWS Certified Solutions Architect – Associate from Intellipaat</p>
+      <p>- AWS DevOps Training and Certification from Intellipaat</p>
+      <p>- DevOps Course from Intellipaat</p>
 
 <h2>🚀 Skills & Technologies:</h2>
    <p><b>Cloud Providers:</b> AWS (EC2, S3, IAM, RDS, VPC, CloudFormation)</p>
