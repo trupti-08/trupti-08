@@ -36,7 +36,7 @@
    <p>- Ensured seamless CI/CD with automated deployment on every code change</p>
    <p><b>Technologies:</b> Jenkins, Docker, Github, Ansible, DockerHub.</p>
    
-  - [➡️ Project Link](https://github.com/)
+  - [➡️ Project Link](https://github.com/trupti-08/DevOps_Project1.git)
     
 - <b>Automate the CI/CD Pipeline Without Changes in the Docker Containers</b>
    <p>- Configured Jenkins to automate CI/CD pipelines without modifying Docker images.</p>
