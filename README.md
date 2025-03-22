@@ -27,7 +27,7 @@
    <p>- Implemented auto-scaling and load balancing for high availability.</p>
    <p><b>Technologies:</b> AWS EC2, RDS, S3, Auto Scaling, Terraform.</p>
   
-  - [➡️ Project Link](https://github.com/)
+  - [➡️ Project Link](https://github.com/trupti-08/AWS_Project.git)
 
 - <b>Implementing a DevOps Lifecycle on a Website using Docker & Jenkins</b>
    <p>- Automated the website’s build and deployment using Jenkins pipelines.</p>
