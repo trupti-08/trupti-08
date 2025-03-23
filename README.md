@@ -45,7 +45,7 @@
    <p>- Ensured smooth, automated delivery with zero changes to containerized applications.</p>
    <p><b>Technologies:</b> Jenkins, Docker, Github, Ansible, DockerHub.</p>
 
-  -  [➡️ Project Link]()
+  -  [➡️ Project Link](https://github.com/trupti-08/DevOps_Project2.git)
    
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/trupti-desai">linkedin Profile</a>
